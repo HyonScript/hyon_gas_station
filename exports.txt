@@ -1,0 +1,2 @@
+exports["hyon_gas_station"]:GetFuel(vehicle)
+exports["hyon_gas_station"]:SetFuel(vehicle, amount)
