@@ -26,11 +26,6 @@ server_scripts {
     'server/main.lua'
 }
 
-escrow_ignore {
-    'config.lua',
-	'server/main.lua',
-    'client/main.lua'
-}
 
 exports {
 	'GetFuel',
@@ -39,5 +34,3 @@ exports {
 
 lua54 'yes'
 
-
-dependency '/assetpacks'
