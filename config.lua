@@ -289,6 +289,8 @@ Config.Locales = {
 	gas_balance_low = "Gas Station balance is too low",
 	can_ammo_low = "Petrol Can LeveL is too low",
 	_max_level = "Your Gas Station Level is MAX",
+
+
 	
 --Fuel pump menu
 	fuel_menu = "Press ~g~E~s~ to open menu",
@@ -304,6 +306,7 @@ Config.Locales = {
 	fueling_level = "~g~Fuel Level:~s~ ~y~",
 	fueling_holde = "Hold Pressing ~g~E~s~ To Refuel",
 	fueling_cancel = "Press ~r~X~s~ To Grab Nozzle", 
+        maxfuelprice = "Max Fuel price:",
 
 -- Petrol Can
 	fuel_with_can_nearveh = "Hold Pressing ~g~E~s~ To Refuel",
